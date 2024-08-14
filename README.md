@@ -11,3 +11,5 @@
   ```
   streamlit run app.py
   ```
+# How Does it work?
+![bc1b6b71-9732-4e62-8cec-b6550063f87c](https://github.com/user-attachments/assets/aaef9f09-e979-4ac2-bafe-60daddf238f5)
